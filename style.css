@@ -13,6 +13,7 @@ h1{
 
 p{
   margin-bottom: 20px;
+  text-align: justify;
 }
 .orange-color{
   color: orange;
@@ -20,6 +21,7 @@ p{
 
 section{
   display: flex;
+  margin-bottom: 120px;
 }
 
 .half-width{
@@ -41,6 +43,12 @@ section{
 }
 
 .top-banner{
-  background-image: url("images/top-banner.png");
+  background-image: url("backgorund/top-banner.png");
   background-repeat: no-repeat;
+}
+
+.dream-big{
+  background-image: url("backgorund/dream-bg.png");
+  background-repeat: no-repeat;
+  background-position: right;
 }
